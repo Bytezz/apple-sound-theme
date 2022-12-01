@@ -17,7 +17,7 @@ Apple sounds for all desktop environment xdg compliant.
 
 #### GUI way
 
-Copy apple-sound-theme folder into "~/.local/share/sounds/" (~ = /home/username)
+Copy apple-sound-theme folder into `~/.local/share/sounds/` (~ = /home/username)
 
 ### Script
 
