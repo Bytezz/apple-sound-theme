@@ -10,7 +10,7 @@ if [ "$XDG_CURRENT_DESKTOP" == "KDE" ]; then
 	useKdialog=true
 fi
 
-install_path="~/.local/share/sounds/apple-sound-theme"
+install_path="$HOME/.local/share/sounds/apple-sound-theme"
 
 if $useKdialog ;then
 	kdialog --title "$window_title" --yesno "$ask_user_installation"
