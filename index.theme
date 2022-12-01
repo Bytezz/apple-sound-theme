@@ -1,0 +1,6 @@
+[Sound Theme]
+Name=Apple
+Directories=stereo
+
+[stereo]
+OutputProfile=stereo
